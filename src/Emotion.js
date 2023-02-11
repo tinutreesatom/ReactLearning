@@ -5,6 +5,7 @@ export default function Emotion() {
     <div className="emotion">
       <h1>Your current emotion is {emotion} </h1>
       <button onClick={() => setEmotion("Sad")}>Sad</button>
+      <button onClick={() => setEmotion("Excited")}>Excited</button>
     </div>
   );
 }

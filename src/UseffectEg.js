@@ -1,7 +1,7 @@
-
+// UseEffect mainly for managing state.
 import { react } from "react";
 import { UseState, UseEffect } from "react";
-function UseEffectEg() {
+function UseffectEg() {
   return <div>hello hi</div>;
 }
-export default UseEffectEg;
+export default UseffectEg;
